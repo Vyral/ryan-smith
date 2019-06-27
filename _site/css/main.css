@@ -1320,7 +1320,7 @@ html[xmlns] .flexslider .slides {
     text-align: center; }
 
 .navbar-andross {
-  border-bottom: 2px solid #999;
+  border-bottom: 2px solid #6d6e71;
   border-radius: 0;
   min-height: 52px;
   background: #ffffff;
@@ -1395,7 +1395,7 @@ html[xmlns] .flexslider .slides {
     display: none;
     opacity: 0; } }
 .navbar-andross-bottom {
-  background: #999;
+  background: #6d6e71;
   color: #fff;
   padding: 0;
   margin: 0;
@@ -1466,12 +1466,12 @@ label.tree-toggle {
 .site-logo {
   width: 90%;
   max-width: 40rem;
-  -webkit-filter: drop-shadow(0px 2px 7px transparent);
-  filter: drop-shadow(0px 2px 7px transparent); }
+  -webkit-filter: drop-shadow(0px 2px 7px white);
+  filter: drop-shadow(0px 2px 7px white); }
 
 .site-title {
-  color: white;
-  text-shadow: 0px 2px 7px transparent;
+  color: #6d6e71;
+  text-shadow: 0px 2px 7px white;
   text-transform: uppercase;
   font-size: 5rem;
   font-weight: bold;
@@ -1936,7 +1936,7 @@ table tr, table td {
   margin: 2rem 0;
   color: white;
   text-transform: uppercase;
-  text-shadow: 0px 2px 7px transparent; }
+  text-shadow: 0px 2px 7px white; }
 .post .headshot {
   width: 100%;
   max-width: 15rem;
@@ -1950,7 +1950,7 @@ table tr, table td {
 
 .tag-container {
   color: white;
-  text-shadow: 0px 2px 7px transparent;
+  text-shadow: 0px 2px 7px white;
   margin-bottom: 1rem; }
 
 .tag {
@@ -1961,7 +1961,7 @@ table tr, table td {
 .author-attribution {
   color: white;
   font-weight: 300;
-  text-shadow: 0px 2px 7px transparent;
+  text-shadow: 0px 2px 7px white;
   margin-bottom: 2rem;
   font-style: italic; }
   .author-attribution a {
@@ -2337,7 +2337,7 @@ table tr, table td {
   margin: auto; }
 
 .footer {
-  background: #989898;
+  background: #6c6d70;
   color: #5d9bd3;
   padding: 2rem;
   text-align: center;
@@ -2573,7 +2573,7 @@ form select {
     color: #fff; }
 
 .newsletter {
-  background: #919191; }
+  background: #656669; }
 
 #side-logo {
   width: 90%;
@@ -2640,8 +2640,8 @@ form select {
   max-width: 40rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
-  -webkit-filter: drop-shadow(0px 2px 7px transparent);
-  filter: drop-shadow(0px 2px 7px transparent); }
+  -webkit-filter: drop-shadow(0px 2px 7px white);
+  filter: drop-shadow(0px 2px 7px white); }
 
 .page-hero-img {
   background-position: center;
