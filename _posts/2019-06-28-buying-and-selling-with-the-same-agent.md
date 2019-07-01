@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Buying and Selling With the Same Agent
-date: 2019-06-28 17:52:28
+date: 2019-06-28 17:52:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -30,6 +30,6 @@ After that, you need to **ask them some important questions.** For example, do t
 
 {% include pullquote.html %}
 
-**You should also ask whether they do more buying or selling,** and what their track record is in this regard. This may not seem like a big deal, but it is, and it’s precisely why we have a team of specialists who focus on a single part of the transaction—it gives our clients a higher level of service. We have buyer agents who exclusively help homebuyers get the best deal possible, and listing agents who exclusively help home sellers sell for top dollar
+**You should also ask whether they do more buying or selling,** and what their track record is in this regard. This may not seem like a big deal, but it is, and it’s precisely why we have a team of specialists who focus on a single part of the transaction—it gives our clients a higher level of service. We have buyer agents who exclusively help homebuyers get the best deal possible, and listing agents who exclusively help home sellers sell for top dollar.
 
 So remember to keep these things in mind before deciding on having a single agent conduct both transactions for you. If you have any questions about this topic or you have any other real estate needs I can assist you with, don’t hesitate to reach out to me. I’d love to help you.
