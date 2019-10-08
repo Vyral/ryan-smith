@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Top Dollar Home-Selling Secrets
-date: 2019-10-07 19:03:03
+date: 2019-10-07 19:03:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -31,7 +31,7 @@ Here are the six secrets you need to know to sell your home for top dollar:
 
 **4\. Describe your neighborhood’s culture.** Each neighborhood has unique traits and features, and sharing any features your neighborhood has that might not be readily apparent to buyers is a nice way to encourage them to make an offer.&nbsp;
 
-**5\. Create a 3-D tour of your house.** We do this for every home we list, and it gives buyers the opportunity to walk through your home without having to see it in person. These videos have accurate depth perception, so they make buyers feel like they’re inside your living room no matter where they’re at. &nbsp;
+**5\. Create a 3D tour of your house.** We do this for every home we list, and it gives buyers the opportunity to walk through your home without having to see it in person. These videos have accurate depth perception, so they make buyers feel like they’re inside your living room no matter where they are at. &nbsp;
 
 **6\. Get a pre-inspection.** There’s a lot of value in handing a buyer a completed inspection report. This way, they know the home is in good standing and they’re more secure in their decision to purchase it. If they’re on the fence, this can oftentimes be the very thing that brings them off of it.&nbsp;
 
