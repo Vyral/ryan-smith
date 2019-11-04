@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Everything You Need to Know About Closing Costs
-date:
+date: 2019-11-04 18:41:06
 tags:
   - Real Estate
 excerpt: >-
@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/closing-costs-email.jpg
 youtube_code: 2oiyWcHjrgM
 ---
 
