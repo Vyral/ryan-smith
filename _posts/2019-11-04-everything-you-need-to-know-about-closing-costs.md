@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Everything You Need to Know About Closing Costs
-date: 2019-11-04 18:41:06
+date: 2019-11-04 18:41:00
 tags:
   - Real Estate
 excerpt: >-
@@ -23,7 +23,7 @@ youtube_code: 2oiyWcHjrgM
 
 Many people have been asking us about closing costs lately, so today we’ll be taking an in-depth look at what these costs are. Closing costs are the expenses paid to close a real estate transaction. **Both buyers and sellers have certain closing costs they’ll need to pay.**
 
-Buyers will typically pay lender fees, which include a loan origination fee, a fee for running a credit report, an underwriting and processing fee, and an appraisal fee. Also, the lender will usually need an escrow deposit, which is made up of two to three months’ worth of prepaid taxes and insurance. Buyers will also pay a few up-front costs, such as inspection fees.
+Buyers will typically pay lender fees, which include a loan origination fee, a fee for running a credit report, an underwriting and processing fee, and an appraisal fee. Also, the lender will usually need an escrow deposit, which is made up of two to three months’ worth of prepaid taxes and insurance. Buyers will also pay a few upfront costs, such as inspection fees.
 
 {% include pullquote.html %}
 
