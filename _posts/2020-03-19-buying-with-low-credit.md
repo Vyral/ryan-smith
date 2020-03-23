@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Buying With Low Credit
-date: 2020-03-19 17:56:10
+date: 2020-03-19 17:56:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -21,7 +21,7 @@ youtube_code: h5V2CU8WGPo
 
 A lot of would-be homebuyers out there assume they can't buy a house because their credit isn’t good enough. For the most part, this is a myth—even if you have a subpar credit score, you can still qualify to buy a home.&nbsp;
 
-Should you try buying a home with less-than-stellar credit, though? By and large, the minimum accepted credit score to qualify for any loan program is 580. Some lenders may use 620 as their minimum accepted score.&nbsp;
+Should you try buying a home with less-than-stellar credit, though? By and large, the lowest accepted credit score to qualify for any loan program is 580. Some lenders may use 620 as their minimum accepted score.&nbsp;
 
 Obviously, if your credit score is too low, you won’t qualify to buy. Otherwise, **having a low score means you won’t be able to get the lowest interest rates or qualify for most loan programs.** The good news is, there are ways you can improve your credit score, so consult with a lender on how you can do this. Sometimes it’s as simple as paying off some debts.&nbsp;
 
