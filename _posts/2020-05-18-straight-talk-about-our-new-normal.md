@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Straight Talk About Our ‘New Normal’
-date: 2020-05-18 20:18:22
+date: 2020-05-18 20:18:00
 tags:
   - Market Update
 excerpt: Here’s everything you need to know about our real estate market’s status.
@@ -27,7 +27,7 @@ Buyers, what makes now a good time to move forward with your home purchase? As m
 
 {% include pullquote.html %}
 
-I just locked in a refinance on my house (thank you Fairway Mortgage), and I’m now sitting comfortably in the 2’s for a 30-year mortgage. Now, as a buyer, you may be able to find a little bit better of a deal on the market than you normally would due to the craziness of this pandemic, but overall I wouldn’t say that that’s happening across the board. The truth is, we’re still seeing plenty of houses fetch multiple offers. That being said, **if you’re a potential buyer focused on paying the lowest monthly payment possible on a home you love, now’s the time to act.** You’ll be able to put more money toward your principal every month and build up equity quicker than ever before.&nbsp;
+I just locked in a refinance on my house (thank you Fairway Mortgage), and I’m now sitting comfortably in the 2% range for a 30-year mortgage. Now, as a buyer, you may be able to find a little bit better of a deal on the market than you normally would due to the craziness of this pandemic, but overall I wouldn’t say that that’s happening across the board. The truth is, we’re still seeing plenty of houses fetch multiple offers. That being said, **if you’re a potential buyer focused on paying the lowest monthly payment possible on a home you love, now’s the time to act.** You’ll be able to put more money toward your principal every month and build up equity quicker than ever before.&nbsp;
 
 Again, if I’m being totally honest, I didn’t think that my message to homebuyers and sellers in the middle of a global pandemic would be this positive. Some of you may already know this, but there was actually a week in which authorities banned home showings. At that point, my heart jumped and I feared the worst for our market. Remarkably though, things have managed to get *better* for real estate since then.&nbsp;
 
