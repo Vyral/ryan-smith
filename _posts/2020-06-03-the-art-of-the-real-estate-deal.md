@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Art of the Real Estate Deal
-date: 2020-06-03 19:21:39
+date: 2020-06-03 19:21:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -24,7 +24,7 @@ In real estate, negotiation is inevitable. If you’ve ever bought or sold a hom
 
 **1\. Never act too excited.** Whether you’re a buyer or a seller, revealing your true excitement about the contract gives the other party power over you. Maintain your cool so that you don’t tip your hand—even if you are extremely excited.
 
-**2\. Knowledge is power.** Use your knowledge of what’s going on in your neighborhood or in the surrounding area to your advantage.&nbsp;
+**2\. Knowledge is power.** Use your knowledge of what’s going on in your neighborhood or surrounding area to your advantage.&nbsp;
 
 {% include pullquote.html %}
 
@@ -32,6 +32,6 @@ In real estate, negotiation is inevitable. If you’ve ever bought or sold a hom
 
 **4\. Maintain a ‘big picture’ mentality.** Sometimes, people can get caught up in details that ultimately don’t matter. Look at the bigger picture of the transaction and consider if what’s being asked for is worth the stress and tension.&nbsp;
 
-**5\. Create a win-win transaction.** The best way to negotiate is to make both sides feel as though they are winning. Just because the other party is getting what they want doesn’t mean that you can’t, as well.&nbsp;
+**5\. Create a win-win transaction.** The best way to negotiate is to make both sides feel as though they are winning. Just because the other party is getting what they want doesn’t mean that you can’t as well.&nbsp;
 
 If you need any assistance buying or selling a home and would like our negotiation expertise on your side, don’t hesitate to reach out to us anytime. We’d love to hear from you.
