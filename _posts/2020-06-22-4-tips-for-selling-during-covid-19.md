@@ -5,7 +5,8 @@ date: 2020-06-22 18:58:00
 tags:
   - Home Seller Tips
 excerpt: 'These four tips will help you sell your home, even during COVID-19.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ryan+Smith/Video+/2020/4+Tips+for+Selling+During+COVID-19.mp4
 pullquote: >-
   If a real estate agent is great at what they do, they should not be scared to
   give you advice.
