@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Tips for Selling During COVID-19
-date: 2020-06-22 18:58:18
+date: 2020-06-22 18:58:00
 tags:
   - Home Seller Tips
 excerpt: 'These four tips will help you sell your home, even during COVID-19.'
@@ -18,7 +18,7 @@ youtube_code: FGgCjMFA_2g
 
 {% include youtube.html %}
 
-How do you sell your home amid the pandemic? As discussed in our last video, it’s a remarkably great time to go ahead with a real estate transaction. If you’re selling, you can get an excellent price. If you’re buying, interest rates are fantastic.&nbsp;
+How do you sell your home amid the pandemic? As discussed [in a recent video](https://centraltexasrealestatejournal.com/straight-talk-about-our-new-normal.html){: target="_blank"}, it’s a remarkably great time to go ahead with a real estate transaction. If you’re selling, you can get an excellent price. If you’re buying, interest rates are fantastic.&nbsp;
 
 However, a question we heard from many people pertained to how they would go about selling their house while the health crisis is still happening. You could still sell your property the way it’s always been done, but due to the coronavirus, there are a few extra measures that can be taken (if they’re not being taken already) to give you the best results. So, to sell your home amid COVID-19, here’s what you should do:
 
