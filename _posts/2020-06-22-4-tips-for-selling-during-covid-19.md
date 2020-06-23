@@ -33,7 +33,7 @@ However, we were doing this before the pandemic; we’ve been providing virtual 
 
 **3\. Choose a great real estate agent.** Many of my previous points won’t work if you choose the wrong agent. Look for someone who has a track record of moving houses in your area. If you think a Realtor is too busy, that’s not a good reason not to call them.&nbsp;
 
-The agents that do a ton of business are the ones doing what others aren’t, and that’s why they’re successful. Hire the person who is known for success. Our team is consistently in touch with a database of over 18,000 who are interested in buying or selling in central Texas. So during this health crisis, it’s particularly vital that we network with others and tell them about your property.&nbsp;
+The agents that do a ton of business are the ones doing what others aren’t, and that’s why they’re successful. Hire the person who is known for success. Our team is consistently in touch with a database of over 18,000 who are interested in buying or selling in Central Texas. So during this health crisis, it’s particularly vital that we network with others and tell them about your property.&nbsp;
 
 **4\. Listen to your Realtor’s advice.** Once you’ve chosen an exceptional real estate agent, do what they tell you because it’ll help speed up your sale and get you a better price. Help your home compete in today’s economy. You don’t want it to sit for a long time and have a band of people marching through your house. Ask your agent good questions. This is essential: If they’re great at what they do, they should not be scared to give you advice. They should have relevant answers and an explanation behind those responses.&nbsp;
 
