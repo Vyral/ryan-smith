@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Will Fall Be Our Hot Market’s Last Hurrah?'
-date: 2020-09-30 18:36:55
+date: 2020-09-30 18:36:00
 tags:
   - Market Update
 excerpt: Here’s why fall may be your golden opportunity to sell.
@@ -33,4 +33,4 @@ We’re going to see some defaults and evictions hit neighborhoods nationwide. W
 
 If you do seize the moment, be mindful of =recent difficulties with appraisals in our market. With properties appreciating so rapidly, it has been a bit tougher to get homes to appraise. If you work with a skilled listing agent though, you’ll be equipped to handle that scenario.&nbsp;
 
-If you have any questions about how to take advantage of things while they’re still hot, reach out to us on the [web](https://www.ryansmithhomes.com/)or give us a call. We’re always here to help\!
+If you have any questions about how to take advantage of things while they’re still hot, reach out to us on the [web](https://www.ryansmithhomes.com/)&nbsp;or give us a call. We’re always here to help\!
