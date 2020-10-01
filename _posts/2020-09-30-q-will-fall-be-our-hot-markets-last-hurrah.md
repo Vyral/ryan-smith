@@ -27,10 +27,10 @@ The answer is sort of a mixed bag; **there are several reasons to believe our ma
 
 {% include pullquote.html %}
 
-We’re going to see some defaults and evictions hit neighborhoods nationwide. Will it be enough to make a massive difference in the market though? Well, that’s the other looming question. It will likely have at least some kind of effect, even that means a slight slowdown in the rapid appreciation we’ve been seeing. It’ll be interesting to see how exactly things play out in our areas as we move into 2021.&nbsp;
+We’re going to see some defaults and evictions hit neighborhoods nationwide. Will it be enough to make a massive difference in the market though? Well, that’s the other looming question. It will likely have at least some kind of effect, even if that means a slight slowdown in the rapid appreciation we’ve been seeing. It’ll be interesting to see how exactly things play out in our areas as we move into 2021.&nbsp;
 
 **Here’s the bottom line though: No one knows exactly what the future will hold, but we do know the market is extremely hot right now**—don’t miss this golden opportunity for maximizing your home sale if you’ve been thinking about listing. You can sell quickly for top dollar before the market really gets hit by any delayed negative effects.&nbsp;
 
-If you do seize the moment, be mindful of =recent difficulties with appraisals in our market. With properties appreciating so rapidly, it has been a bit tougher to get homes to appraise. If you work with a skilled listing agent though, you’ll be equipped to handle that scenario.&nbsp;
+If you do seize the moment, be mindful of recent difficulties with appraisals in our market. With properties appreciating so rapidly, it has been a bit tougher to get homes to appraise. If you work with a skilled listing agent though, you’ll be equipped to handle that scenario.&nbsp;
 
 If you have any questions about how to take advantage of things while they’re still hot, reach out to us on the [web](https://www.ryansmithhomes.com/)&nbsp;or give us a call. We’re always here to help\!
