@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Can I Make My Offer Stand Out?'
-date: 2020-10-14 17:13:54
+date: 2020-10-14 17:13:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s how to make a strong offer in this seller’s market.
@@ -17,7 +17,7 @@ youtube_code: Eylq7a2qiK0
 
 {% include youtube.html %}
 
-If you’re in the market to buy a home right now, today I’m excited to share six different tips to help you get the home of your dreams in a competitive market like this. With inventory dropping way down, the homes that are on the market right now are typically receiving multiple offers. There are many ways you can craft your offer to stand out, and we’re going through each of them today:
+Today I’m excited to share six different tips to help you get the home of your dreams in a competitive market like this. With inventory dropping way down, the homes that are on the market right now are typically receiving multiple offers. There are many ways you can craft an offer that stands out, and we’re going through each of them today:
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch it in its entirety, or use these timestamps to browse specific points at your leisure:**
 
@@ -35,4 +35,4 @@ If you’re in the market to buy a home right now, today I’m excited to share 
 
 6:30- Wrapping things up
 
-If you need any more tips about how to craft a winning offer in this market or if you have any real-estate related questions for me, don’t hesitate to reach out via phone or email today. I look forward to hearing from you soon.
+If you need more tips about how to craft a winning offer in this market or if you have any real-estate related questions for me, don’t hesitate to reach out via phone or email today. I look forward to hearing from you soon.
