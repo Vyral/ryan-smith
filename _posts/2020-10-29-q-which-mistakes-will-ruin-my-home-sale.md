@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 'Q: Which Mistakes Will Ruin My Home Sale?'
-date: 2020-10-29 21:26:49
+date: 2020-10-29 21:26:00
 tags:
   - Home Seller Tips
 excerpt: These are the major pitfalls that every home seller should steer clear of.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ryan+Smith/Video+/2020/Q-+Which+Mistakes+Will+Ruin+My+Home+Sale_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
