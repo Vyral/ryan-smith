@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Makes Now the Perfect Time to Sell?
-date: 2021-02-15 19:57:19
+date: 2021-02-15 19:57:00
 tags:
   - Home Seller Tips
 excerpt: Here are the three main reasons why now is a fantastic time to sell.
@@ -25,7 +25,7 @@ Over the past 12 months, I’ve seen a higher rate of appreciation than I’ve e
 
 {% include pullquote.html %}
 
-**2\. There’s less competition.** As I alluded above, there aren’t many options for buyers to look at, which is pressuring them to make aggressive offers for homes. You’re competing against fewer sellers now, but that might not be the case in a few years. It wouldn’t be uncommon for a few market changes to cause inventory to increase. With inventory as low as it is now, you have a great opportunity to maximize your profits.&nbsp;
+**2\. There’s less competition.** As I alluded to above, there aren’t many options for buyers to look at, which is pressuring them to make aggressive offers for homes. You’re competing against fewer sellers now, but that might not be the case in a few years. It wouldn’t be uncommon for a few market changes to cause inventory to increase. With inventory as low as it is now, you have a great opportunity to maximize your profits.&nbsp;
 
 Usually, there’s a huge uptick in people wanting to list their homes after the first of the year, which means momentum is building for others to sell as we get further into 2021. Additionally, we saw more active buyers than usual in November and December, so we’re hitting a sweet spot in the market.&nbsp;
 
