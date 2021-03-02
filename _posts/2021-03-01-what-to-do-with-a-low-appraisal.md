@@ -25,12 +25,12 @@ Due to all this appreciation, appraisers are having a difficult time keeping up.
 
 {% include pullquote.html %}
 
-**2\. Create a rebuttal.** If everything is accurate on the appraisal, your listing agent will compose a report that will essentially say we don’t agree with the appraised price and here’s why. Then it’ll list comparable homes that support the purchase price and also a list of reasons why we feel the price we set was valid. This is then sent to the appraiser, and we typically have about a 50% success rate of getting the appraisal changed. If that doesn’t work out, then move on to option three...
+**2\. Create a rebuttal.** If everything is accurate on the appraisal, your listing agent will compose a report that will essentially say we don’t agree with the appraised price and, here’s why. Then it’ll list comparable homes that support the purchase price and also a list of reasons why we feel the price we set was valid. This is then sent to the appraiser, and we typically have about a 50% success rate of getting the appraisal changed. If that doesn’t work out, then move on to option three...
 
 **3\. Work it out with the buyer.** The seller could bring their purchase price down to the appraised value, the buyer could pay the difference between the two prices in cash, or the buyer and seller could meet in the middle.&nbsp;
 
 If none of these things work, unfortunately, the deal falls apart because the buyer and seller can’t agree. No one wants that because the buyer loves the house and the seller wants to make the sale work, so usually everyone works together to renegotiate.
 
-Due to the sheer number of low appraisals we’re currently seeing, more and more buyers are willing to pay cash to secure the property. **It’s a seller’s market, things are hot, and buyers are battling for homes.** Also, remember that all-cash buyers may not even be getting an appraisal, so you can skip all this uncertainty. This also means buyers with loans want to compete more heavily against those cash buyers. These are crazy times in the real estate industry.&nbsp;
+Due to the sheer number of low appraisals we’re currently seeing, more and more buyers are willing to pay cash to secure the property. **It’s a seller’s market, things are hot, and buyers are battling for homes.** Also, remember that all-cash buyers may not even be getting an appraisal, so they can skip all this uncertainty. This also means buyers with loans want to compete more heavily against those cash buyers. These are crazy times in the real estate industry.&nbsp;
 
 If you have further questions about low appraisals or real estate in general, please feel free to reach out on our website, Facebook, Instagram, or give us a call. We would love to be your real estate resource.
