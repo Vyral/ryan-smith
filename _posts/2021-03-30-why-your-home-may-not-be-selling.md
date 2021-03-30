@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Why Your Home May Not Be Selling
-date: 2021-03-30 16:47:06
+date: 2021-03-30 16:47:00
 tags:
   - Home Seller Tips
 excerpt: Here are the top four reasons why homes don’t sell in our hot market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ryan+Smith/Video+/2021/Why+Your+Home+May+Not+Be+Selling.mp4
 pullquote: Think about what you can do to help the property show better.
 enclosure_type: video/mp4
 enclosure_time:
