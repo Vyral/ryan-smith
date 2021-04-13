@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Avoid First-Year Woes as a Homeowner
-date: 2021-04-12 19:56:28
+date: 2021-04-12 19:56:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s what to expect in that first year after you buy your new home.
@@ -16,7 +16,7 @@ youtube_code: VO-TxB71edw
 ---
 {% include youtube.html %}
 
-So you just got the keys to your new home—congratulations\! I’ll never forget that feeling. Homeownership is one of the most rewarding experiences out there. That said, your first year as a new homeowner won’t necessarily be smooth sailing. You need a plan for when things go awry because something almost always does. Today I’m sharing a few tips and insights into how that first year of homeownership will mostly likely play out.
+So you just got the keys to your new home—congratulations\! I’ll never forget that feeling. Homeownership is one of the most rewarding experiences out there. That said, your first year as a new homeowner won’t necessarily be smooth sailing. You need a plan for when things go awry because something almost always does. Today I’m sharing a few tips and insights into how that first year of homeownership will most likely play out.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to skip to topics that interest you most:&nbsp;**
 
