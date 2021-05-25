@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Three New Buyer Preferences Post-COVID
-date: 2021-05-25 16:56:23
+date: 2021-05-25 16:56:00
 tags:
   - Home Seller Tips
 excerpt: Don’t overlook these three new buyer preferences created by the pandemic.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ryan+Smith/Video+/2021/Three+New+Buyer+Preferences+Post-COVID.mp4
 pullquote: People are making more money than ever in the sale of their home.
 enclosure_type: video/mp4
 enclosure_time:
