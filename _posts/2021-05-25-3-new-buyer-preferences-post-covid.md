@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Three New Buyer Preferences Post-COVID
+title: 3 New Buyer Preferences Post-COVID
 date: 2021-05-25 16:56:00
 tags:
   - Home Seller Tips
 excerpt: Don’t overlook these three new buyer preferences created by the pandemic.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Ryan+Smith/Video+/2021/Three+New+Buyer+Preferences+Post-COVID.mp4
-pullquote: People are making more money than ever in the sale of their home.
+pullquote: People are making more money than ever in the sale of their homes.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -16,7 +16,7 @@ youtube_code: 7BBAj_znPQM
 ---
 {% include youtube.html %}
 
-The real estate market is crazy hot right now and houses are flying off the shelves. People are making more money than ever on the sale of their homes but there's always the chance to make more. If you want to make the most on your sale, think about these three new buyer preferences that can really help get you top dollar.:
+The real estate market is crazy hot right now, and houses are flying off the shelves. People are making more money than ever on the sale of their homes but there's always the chance to make more. If you want to make the most on your sale, think about these three new buyer preferences that can really help get you top dollar.:
 
 **1\. Storage space.** With people staying at home more due to COVID, we're seeing a trend that buyers want to see extra storage space for all their stuff inside their house.&nbsp;
 
