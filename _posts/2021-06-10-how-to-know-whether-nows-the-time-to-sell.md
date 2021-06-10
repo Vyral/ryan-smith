@@ -5,7 +5,8 @@ date: 2021-06-10 15:29:00
 tags:
   - Home Seller Tips
 excerpt: To sell or not to sell—that is the question dominating today’s market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ryan+Smith/Video+/2021/How+to+Know+Whether+Now%E2%80%99s+the+Time+to+Sell.mp4
 pullquote: >-
   If you’re looking to cash in and pull the equity out of your home, now’s a
   great time to do so.
