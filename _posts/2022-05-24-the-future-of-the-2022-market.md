@@ -14,6 +14,8 @@ youtube_code: MFC5cvHxo5s
 ---
 {% include youtube.html %}
 
+{% include excerpt.html %}
+
 If you’re a homeowner, chances are you’ve been watching your property’s value climb faster than you could’ve imagined. This market is red-hot—most homes are getting multiple offers and selling for somewhere between 10% and 15% over asking price.
 
 So is this craziness going to continue? There are two schools of thought on the topic:
