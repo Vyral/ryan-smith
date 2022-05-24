@@ -14,13 +14,13 @@ youtube_code: MFC5cvHxo5s
 ---
 {% include youtube.html %}
 
-{% include pullquote.html %}
-
 If you’re a homeowner, chances are you’ve been watching your property’s value climb faster than you could’ve imagined. This market is red-hot—most homes are getting multiple offers and selling for somewhere between 10% and 15% over asking price.
 
 So is this craziness going to continue? There are two schools of thought on the topic:
 
 **The first school of thought is that the market is going to crash.** Over the past couple of years in Bell County, homes have appreciated over 50%. Since 2016, most homes have appreciated over 100%. Those are some pretty massive changes in property values over the last few years. Affordability, on the other hand, hasn’t been increasing at the same rate as property values. After all, income hasn’t risen alongside home values. These conditions have many worried that we’ll see a repeat of what happened between 2005 and 2007 when the housing bubble burst.
+
+{% include pullquote.html %}
 
 **The second thought is that the market isn’t going to crash but will instead slow down.** This is the camp where I’m currently settled. In many ways, the situations that led to the issues in 2007 don’t exist right now. Today’s buyers have all been thoroughly vetted and many are paying in cash due to having strong equity positions. I think that this “bubble” we’re seeing is going to form a little pinhole in it, which will ease the pressure and slow the market down some.
 
