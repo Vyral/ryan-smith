@@ -24,8 +24,8 @@ So is this craziness going to continue? There are two schools of thought on the 
 
 {% include pullquote.html %}
 
-**The second school of thought is that the market isn’t going to crash but will instead slow down.** This is the camp where I’m currently settled. In many ways, the situations that led to the issues in 2007 don’t exist right now. Today’s buyers have all been thoroughly vetted and many are paying in cash due to having strong equity positions. I think that this “bubble” we’re seeing is going to form a little pinhole in it, which will ease the pressure and slow the market down some.
+**The second school of thought is that the market isn’t going to crash but will instead slow down.** This is the camp where I’m currently settled. In many ways, the situations that led to the issues in 2007 don’t exist right now. Today’s buyers have all been thoroughly vetted, and many are paying in cash due to having strong equity positions. I think that this “bubble” we’re seeing is going to form a little pinhole in it, which will ease the pressure and slow the market down some.
 
 Of course, we’re still in a seller’s market, but things won’t be quite as crazy as they have been over the last two years. However, I don’t foresee home values dropping over the next 12 months. If you’re thinking about waiting out the market, you might be waiting a long time. **The time to act is now.**
 
-If you’re looking to buy or sell a home, or you have any questions about today’s market, don’t hesitate to reach out to me by phone or email. I’d love to hear from you.
+If you’re looking to buy or sell a home or have any questions about today’s market, don’t hesitate to reach out to me by phone or email. I’d love to hear from you.
