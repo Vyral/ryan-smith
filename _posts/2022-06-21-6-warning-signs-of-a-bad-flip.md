@@ -12,7 +12,11 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/poorly-flipped-house-yt.jpeg
 youtube_code: WvcoDA_xd9k
 ---
-{% include youtube.html %}<br><br>{% include excerpt.html %}<br><br>Some flipped homes look amazing, but not everyone does a good job of buying and fixing homes. Some people are after a quick fix only to end up with shoddy results. How do you know that the flip you’re looking to buy has been fixed correctly? Luckily, there are a few signs you can watch out for:
+{% include youtube.html %}
+
+{% include excerpt.html %}
+
+Some flipped homes look amazing, but not everyone does a good job of buying and fixing homes. Some people are after a quick fix only to end up with shoddy results. How do you know that the flip you’re looking to buy has been fixed correctly? Luckily, there are a few signs you can watch out for:
 
 **1\. Building permits.** If they didn’t obtain building permits while flipping the home, that’s a big problem. The permitting shows the projects had a base level of workmanship and ensures the work was done properly. If there are no permits, the seller might be trying to cover something up.
 
