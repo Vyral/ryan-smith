@@ -4,7 +4,8 @@ title: 6 Warning Signs of a Bad Flip
 date: 2022-06-21 05:00:00
 tags:
 excerpt: How to tell whether a flipped home has been fixed properly or not.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ryan+Smith/Video+/2022/6+Warning+Signs+of+a+Bad+Flip.mp4
 pullquote: If there are no permits, the seller might be trying to cover something up.
 enclosure_type: video/mp4
 enclosure_time:
