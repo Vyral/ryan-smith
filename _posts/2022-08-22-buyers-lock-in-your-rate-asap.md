@@ -14,7 +14,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/8-21-22-ryan-smith-yt.jpeg
 youtube_code: 8KTN6ZVpQOc
 ---
-{% include youtube.html %}<br><br>{% include excerpt.html %}
+{% include youtube.html %}
+
+{% include excerpt.html %}
 
 What happens if interest rates increase after you’ve already gone under contract? Is there any way to protect yourself?
 
