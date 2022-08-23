@@ -4,7 +4,8 @@ title: 'Buyers: Lock In Your Rate ASAP'
 date: 2022-08-22 05:00:00
 tags:
 excerpt: You have options to safeguard yourself from fluctuating rates.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ryan+Smith/Video+/2022/Buyers_+Lock+In+Your+Rate+ASAP.mp4
 pullquote: >-
   A rate lock ensures that you won’t have to cancel a deal simply because
   interest rates spiked during the home-buying process.
