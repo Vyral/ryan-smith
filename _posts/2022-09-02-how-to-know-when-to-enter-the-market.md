@@ -4,7 +4,8 @@ title: How To Know When To Enter the Market
 date: 2022-09-02 05:00:00
 tags:
 excerpt: These are the four things you should consider when entering the market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ryan+Smith/Video+/2022/How+To+Know+When+To+Enter+the+Market.mp4
 pullquote: How you look at the market depends on whether you’re a buyer, seller, or both.
 enclosure_type: video/mp4
 enclosure_time:
