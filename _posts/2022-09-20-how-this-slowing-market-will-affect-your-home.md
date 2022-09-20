@@ -14,9 +14,7 @@ youtube_code: GPiTxaxGUfc
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}​​​
-
-Is the real estate market slowing? You may hear about this on the news or from your friends, and many of my clients have asked me this question. With the recent interest rate hikes, everyone wants to know if the market is slowing. In short, yes. **The market is slowing, but not as much as you think.**
+{% include excerpt.html %}​​​<br>Is the real estate market slowing? You may hear about this on the news or from your friends, and many of my clients have asked me this question. With the recent interest rate hikes, everyone wants to know if the market is slowing. In short, yes. **The market is slowing, but not as much as you think.**
 
 We’ve seen a dramatic change in our market recently. Inventory increased significantly in April, according to both Zillow and Realtor.com. The chief economist at Realtor.com notes, “*If the trends we’re seeing now hold true, we could potentially see year-over-year inventory growth within the next few weeks.*” At the same time, buyer demand also decreased. The number of new mortgage applications fell in April for the third month in a row, and existing home sales dropped 2.4%.
 
