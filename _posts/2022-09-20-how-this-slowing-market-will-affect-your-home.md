@@ -4,7 +4,8 @@ title: How This Slowing Market Will Affect Your Home
 date: 2022-09-20 05:00:00
 tags:
 excerpt: Why our housing market is slowing and how it affects your home.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ryan+Smith/Video+/2022/How+This+Slowing+Market+Will+Affect+Your+Home+(1).mp4
 pullquote: The market might be slowing, but it’s still a good time to sell your home.
 enclosure_type: video/mp4
 enclosure_time:
