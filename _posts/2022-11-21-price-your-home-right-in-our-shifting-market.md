@@ -4,7 +4,8 @@ title: Price Your Home Right in Our Shifting Market
 date: 2022-11-21 05:00:00
 tags:
 excerpt: 'You can still get top dollar if you price your home correctly. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ryan+Smith/Video+/2022/Price+Your+Home+Right+in+Our+Shifting+Market+(9).mp4
 pullquote: >-
   We’re still in a seller’s market, but you have to be careful about how you
   price your home.
