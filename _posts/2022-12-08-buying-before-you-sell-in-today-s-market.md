@@ -4,7 +4,8 @@ title: Buying Before You Sell in Today’s Market
 date: 2022-12-08 05:00:00
 tags:
 excerpt: Three options for those who need to buy a home before selling.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ryan+Smith/Video+/2022/Buying+Before+You+Sell+in+Today%E2%80%99s+Market.mp4
 pullquote: Knock and Homeward are changing the way people buy and sell homes.
 enclosure_type: video/mp4
 enclosure_time:
