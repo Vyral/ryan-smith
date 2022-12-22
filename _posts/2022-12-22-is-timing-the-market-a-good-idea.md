@@ -9,8 +9,8 @@ pullquote: What happens if you wait for a crash that never comes?
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/wait-to-buy-yt.jpg
-youtube_code: youtu.be/r_bmuZKm-YA
+youtube_alternate_image: /uploads/wait-to-buy-yt-1.jpg
+youtube_code: r_bmuZKm-YA
 ---
 {% include youtube.html %}
 
