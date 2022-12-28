@@ -16,7 +16,7 @@ youtube_code: r_bmuZKm-YA
 
 {% include excerpt.html %}
 
-With the market shifting so dramatically, it may be tempting to try and time the market and get the best deal possible. However, Is this really the right move? Today, I’m breaking down all of the factors that go into this decision.
+With the market shifting so dramatically, it may be tempting to try and time the market and get the best deal possible. However, is this really the right move? Today, I’m breaking down all of the factors that go into this decision.
 
 **Feel free to watch the full message above, or use these timestamps that will direct you to various points in the video:**
 
