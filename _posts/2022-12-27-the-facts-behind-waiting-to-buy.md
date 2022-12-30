@@ -4,7 +4,8 @@ title: The Facts Behind Waiting To Buy
 date: 2022-12-27 05:00:00
 tags:
 excerpt: There are a couple of reasons why you should be in buy mode right now.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ryan+Smith/The+Facts+Behind+Waiting+To+Buy.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
