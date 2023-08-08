@@ -2,7 +2,6 @@
 layout: post
 title: 3 Things You Must Absolutely Know Before Selling Your Home
 date: 2023-08-03 05:00:00
-tags:
 excerpt: Here are three essential tips homeowners need to know before selling.
 enclosure:
 pullquote: First impressions matter in real estate.
@@ -10,7 +9,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/2-2023-08-04t071356-004.jpg
-youtube_code: haqiG0tfP8g
+youtube_code: YlHMFyOFWw
 ---
 {% include youtube.html %}
 
