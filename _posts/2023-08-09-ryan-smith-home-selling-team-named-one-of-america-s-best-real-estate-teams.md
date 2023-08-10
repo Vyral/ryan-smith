@@ -10,7 +10,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/2023-americas-best-2-e1686682077624-edited-1-1-1.webp
+youtube_alternate_image: /uploads/2023-americas-best-2-e1686682077624-edited-1-1-2.webp
 youtube_code:
 ---
 [![](/uploads/2023-americas-best-2-e1686682077624-edited-1-1.webp){: width="877" height="607"}](https://www.realtrends.com/Americas-Best/){: target="_blank" rel="noopener"}
