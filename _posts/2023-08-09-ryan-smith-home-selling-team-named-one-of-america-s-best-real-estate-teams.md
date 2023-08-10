@@ -13,7 +13,7 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/2023-americas-best-2-e1686682077624-edited-1-1-2.webp
 youtube_code:
 ---
-[![](/uploads/2023-americas-best-2-e1686682077624-edited-1-1.webp){: width="877" height="607"}](https://www.realtrends.com/Americas-Best/){: target="_blank" rel="noopener"}
+[![](/uploads/screenshot-2023-08-10-at-3-37-22-pm.png){: width="774" height="526"}](https://finance.yahoo.com/news/ryan-smith-home-selling-team-140000219.html){: target="_blank" rel="noopener"}
 
 **[Read the full Yahoo! Finance article](https://finance.yahoo.com/news/ryan-smith-home-selling-team-140000219.html){: target="_blank" rel="noopener"}**<br><br>RealTrends America's Best Real Estate Professionals ranked over 28,000 residential real estate professionals solely based on their excellence in real estate sales during calendar year 2022. All production numbers are independently verified by a third party to ensure accuracy and report integrity. This group of highly successful real estate sales agents represents the top 1.5 percent of all real estate practitioners in the United States.
 
