@@ -3,7 +3,9 @@ layout: post
 title: Ryan Smith Home Selling Team Named One of 'America's Best' Real Estate Teams
 date: 2023-08-09 05:00:00
 excerpt:
-enclosure:
+enclosure: >-
+  RealTrends America's Best Real Estate Professionals ranked over 28,000
+  residential real estate professionals
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
