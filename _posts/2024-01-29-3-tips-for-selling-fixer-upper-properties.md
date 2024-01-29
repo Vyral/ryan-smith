@@ -29,4 +29,4 @@ I often get questions from sellers asking how they can sell their properties tha
 
 If you follow these tips, your house can still sell just fine. There’s always someone looking for a home exactly like yours.
 
-If you are thinking of selling your house, reach out to us at (254) 213-5335. You can also check out **[ryansmithhomes.com](https://www.ryansmithhomes.com/)**. We look forward to hearing from you!
+If you are thinking of selling your house, reach out to us at (254) 213-5335. You can also check out **[ryansmithhomes.com](https://www.ryansmithhomes.com/){: target="_blank" rel="noopener"}**. We look forward to hearing from you!
