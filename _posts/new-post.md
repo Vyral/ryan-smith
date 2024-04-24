@@ -2,7 +2,7 @@
 layout: post
 title: What’s The Best Way To Buy a Home Before Selling?
 date: 2024-04-23 05:00:00
-excerpt: What homeowners need to know about buying a home before selling.
+excerpt:
 enclosure:
 pullquote:
 enclosure_type: video/mp4
