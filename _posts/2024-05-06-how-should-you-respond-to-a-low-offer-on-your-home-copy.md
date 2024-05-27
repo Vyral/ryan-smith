@@ -2,9 +2,9 @@
 layout: post
 title: Home-Sale Contingency Transactions Made Easy
 date: 2024-05-26 05:00:00
-excerpt:
+excerpt: Tips to help you buy your dream home contingent on selling your old house.
 enclosure:
-pullquote:
+pullquote: Communicate this strategy to the listing agent of the house you want to buy.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
