@@ -2,7 +2,7 @@
 layout: post
 title: How Much Does it Cost To Sell a Home Today?
 date: 2024-08-27 05:00:00
-excerpt:
+excerpt: 'The three main types of costs home sellers need to know about. '
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -20,5 +20,3 @@ Are you planning on selling your home in the near future? Now is a great time to
 **3\. Closing costs.** These costs go towards transferring the ownership of a property from one person to another and include things like title fees, escrow fees, mortgage insurance, seller concessions, notary fees, and more. While seller concessions can be negotiated, and closing costs can vary based on the value of your property, you can generally expect to pay between 0.5% and 1% of the total sales price at closing.
 
 Planning for a home sale is a lot of work, but we can help. Just call or email us today, and we’ll help you analyze and break down how much cash you need to sell your home. We look forward to hearing from you!
-
-<br>
