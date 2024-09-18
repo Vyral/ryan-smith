@@ -10,7 +10,7 @@ pullquote: Inventory is increasing, so you need a good marketing strategy.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/ryan-smith-ss-template-7.jpg
+youtube_alternate_image: /uploads/ryan-smith-ss-template-1-1.jpg
 youtube_code:
 ---
 Do you need to sell your home fast? In this market, that’s no easy task. Due to higher interest rates, home prices, and lower demand, you can’t just throw your home on the MLS and expect it to sell in a couple of days. That being said, you can still sell quickly in this market; you just need to put in a little work. That’s why I always recommend my sellers do a pre-listing inspection if they want to spend as little time on market as possible. Here are three key benefits of pre-inspecting your home:
