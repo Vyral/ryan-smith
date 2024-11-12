@@ -15,6 +15,8 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/ryan-smith-ss-template-8.jpg
 youtube_code:
 ---
+{% include excerpt.html %}
+
 Right now, the No. 1 question I’m getting is, *“What’s going to happen to the housing market in 2025?”* I get it; a lot of people had plans to move this year but put things on hold due to higher mortgage rates and a slowing market. This begs the question: Will 2025 be any different? The short answer is yes, although there probably won’t be a dramatic shakeup that flips the market on its head. Today, I’m going over what the top experts are forecasting for mortgage interest rates, home prices, and buyer demand in 2025. Plus, I’ll share my insights on how you can get ready for these changes before the new year even starts:
 
 **1\. Mortgage rates will ease slightly.** It’s no secret that higher mortgage interest rates have hurt affordability for buyers and caused our market to slow down. U.S. existing home sales hit a [14-year low in September 2024](https://www.reuters.com/markets/us/us-existing-home-sales-fall-14-year-low-september-2024-10-23/), and one of the biggest reasons why is that would-be buyers are sitting on the sidelines waiting for rates to drop. While Fannie Mae and Freddie Mac aren’t predicting rates to crash to where they were a few years ago, [most experts believe](https://www.keepingcurrentmatters.com/2024/10/21/what-to-expect-from-mortgage-rates-and-home-prices-in-2025) rates will fall below the 6% mark for the first time since Q2 of 2022. Since mortgage rates are a key factor in housing affordability, this is fantastic news for buyers sitting on the fence.
