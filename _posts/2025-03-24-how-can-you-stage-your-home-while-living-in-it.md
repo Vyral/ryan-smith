@@ -11,10 +11,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/ryan-smith-ss-template-10.jpg
 youtube_code:
 ---
-{% include youtube.html %}
-
-{% include excerpt.html %}
-
 Selling your home while you’re still living in it might sound tricky, but it’s doable with the right strategy. After all, it pays to do a little work before you list your house–whether you’re still living in it or not. Did you know that staged homes sell 13% faster and can even bring in higher offers? With a few adjustments, you can create a space that feels fresh, inviting, and buyer-friendly while still enjoying your daily routine. As a professional real estate agent, I help homeowners like you sell faster and for top dollar—even while living in the home. Let’s go over some smart, doable steps to stage your home effectively without disrupting your life:
 
 **1\. Declutter and pack early.** Think of it as pre-moving. Pack away seasonal clothes, personal photos, and anything you don’t use daily. This makes your space feel bigger, cleaner, and move-in ready for buyers. Plus, it reduces last-minute stress when it’s time to move. Buyers will also find it easier to envision themselves living in the home.
